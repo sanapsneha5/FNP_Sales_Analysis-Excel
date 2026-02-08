@@ -1,5 +1,5 @@
 # 📊 FNP Sales Analysis – Excel Project
-![Uploading Screenshot.png…]()
+<img width="1878" height="852" alt="Screenshot" src="https://github.com/user-attachments/assets/ea657099-4723-4e2b-b576-1c61a70104c6" />
 
 
 ## 📌 Project Overview
